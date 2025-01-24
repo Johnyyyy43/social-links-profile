@@ -1,0 +1,13 @@
+{
+    "name": "social-links-profile",
+    "version": "1.0.0",
+    "description": "A project to display social links on a profile page",
+    "main": "index.html",
+    "scripts": {
+        "start": "open index.html"
+    },
+    "author": "john ibe",
+    "license": "MIT",
+    "dependencies": {},
+    "devDependencies": {}
+}

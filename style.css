@@ -16,7 +16,7 @@
     text-align: center;
     display: flex;
     justify-content: center;
-    position: fixed;
+    position: absolute;
 }
 .rec1 {
     width: 290px;
